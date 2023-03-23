@@ -5,7 +5,7 @@
 
 maven projet
 
-## build
+## BUILD Jar FILE
 ```bash
 mvn package
 ```
