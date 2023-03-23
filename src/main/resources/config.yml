@@ -1,0 +1,9 @@
+#if token change the plugin must be restart
+Token: 'token'
+
+TextChannelID: 'id'
+
+OnableVocalChannelInfoID: 'false'
+VocalChannelInfoID: 'id'
+
+Command-permission: 'discord.use'
