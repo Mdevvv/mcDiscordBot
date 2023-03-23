@@ -9,4 +9,5 @@ maven projet
 ```bash
 mvn package
 ```
+or use the `package.cmd`
 require maven with 3.8.1 build version
