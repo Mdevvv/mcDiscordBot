@@ -4,3 +4,9 @@
  - spigot-1.8.8-R0.1-SNAPSHOT 
 
 maven projet
+
+## build
+```bash
+mvn package
+```
+require maven with 3.8.1 build version
